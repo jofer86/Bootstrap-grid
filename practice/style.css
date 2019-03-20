@@ -1,0 +1,55 @@
+body{
+	background: #f0f3f5;
+	color: #fff;
+}
+header{
+	background:#9aca40;
+	margin-bottom: 20px;
+	padding:20px;
+}
+
+footer{
+	background: peru;
+}
+
+main{
+	background: #000;
+}
+
+.main-container {
+	margin-bottom: 20px;
+}
+
+
+.aside{
+	background: lightgray;
+	padding:40px;
+	
+}
+
+.bottom-container{
+	margin-bottom: 20px;
+
+}
+
+
+
+.box{
+	background: #2196f3;
+	padding: 20px;
+	
+}
+
+.four{
+	padding:30px;
+}
+
+.twelve {
+	margin-bottom: 20px;
+}
+
+.two{
+	margin:0;
+}
+
+
